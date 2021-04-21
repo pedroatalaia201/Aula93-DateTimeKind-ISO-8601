@@ -1,0 +1,13 @@
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\bin\Debug\netcoreapp3.1\aula93.exe
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\bin\Debug\netcoreapp3.1\aula93.deps.json
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\bin\Debug\netcoreapp3.1\aula93.runtimeconfig.json
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\bin\Debug\netcoreapp3.1\aula93.runtimeconfig.dev.json
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\bin\Debug\netcoreapp3.1\aula93.dll
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\bin\Debug\netcoreapp3.1\aula93.pdb
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.csprojAssemblyReference.cache
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.AssemblyInfoInputs.cache
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.AssemblyInfo.cs
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.csproj.CoreCompileInputs.cache
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.dll
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.pdb
+C:\Pedro\Curso-C#\aulas\aula93-DateTimaKind-padraoISO8601\Aula93\aula93\obj\Debug\netcoreapp3.1\aula93.genruntimeconfig.cache
